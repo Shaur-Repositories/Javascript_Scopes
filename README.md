@@ -174,5 +174,3 @@ Fig : Child function forming **Closure** with only `var a` from block as it was 
 
 ----
 
-**I would really appreciate if you can provide your thoughts and feedback in the comments.**
-### Hope you find it helpful. Happy coding!
