@@ -26,9 +26,13 @@ We will be focusing on `var`, `let` and `const` and how they are scoped.
 
 ### Types of Scope in JS
 
+<p style="text-align: center">
+
 ![Types of Scopes](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z9sh7rt5xiz4xe9bvszu.png)
 
 Fig : Showing **Local**, **Closure**, **Script** and **Global** present in Scope.
+  
+</p>
 
 ---
 
