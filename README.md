@@ -170,7 +170,7 @@ Fig : Child function forming **Closure** with only `var a` from block as it was 
 
 **Header Image :**  [https://wallpapercave.com/wp/wp2742433.jpg](https://wallpapercave.com/wp/wp2742433.jpg)
 
-**GitHub Repo :** [https://github.com/Shaur-Repositories/Javascript_Scopes](https://github.com/Shaur-Repositories/Javascript_Scopes)
+**Dev.to Link :** [https://dev.to/shaur/scopes-in-javascript-with-devtools-16gp](https://dev.to/shaur/scopes-in-javascript-with-devtools-16gp)
 
 **Hosted Page :** [https://shaur-repositories.github.io/Javascript_Scopes/](https://shaur-repositories.github.io/Javascript_Scopes/)
 
