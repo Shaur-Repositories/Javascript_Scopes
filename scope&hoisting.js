@@ -80,3 +80,21 @@ Parent and Grandparent for the variables used by Child,
 Also script and global scope is always present via "Scope Chaining".
 */
 
+
+//Closure with a Block
+function closureBlock() {
+  if(true)
+  {
+    var a = "closure"; // local memory
+    let b = "closure"; // block  - > will  be destroyed once block finishes
+    const c = "closure"; //block  - > will  be destroyed once block finishes
+  }
+  return function () {
+    console.log(a + b + c + aa); //aa from global scope
+  };
+}
+let colBlk = closureBlock();
+colBlk();/*
+This function will only make a closure with  the var a, As it will move to the local scope of
+parent. let b and const c were blocke scoped and were destroyed once the block stop executing.
+*/
