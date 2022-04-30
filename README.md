@@ -1,4 +1,7 @@
 
+#This Repo maintains the demo for dev.to article : https://dev.to/shaur/scopes-in-javascript-with-devtools-16gp
+---
+
 # An overview for Scopes in JS with the help of DevTools.
 
 ## Before we start let's quickly go over some basic terminology.**
